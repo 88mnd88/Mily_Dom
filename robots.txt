@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap:https://github.com/88mnd88/Mily_Dom/blob/89c77647532e9c7d4e8aaec2ec21c21caff7951a/sitemap.xml
